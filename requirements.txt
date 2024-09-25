@@ -1,0 +1,6 @@
+telebot
+json
+requests
+re
+random
+fakerInlineKeyboardButton
