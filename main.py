@@ -5,7 +5,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 fake = Faker()
 
 admin_id = '5983253591'  # اي دي بتاعك هنا
-bot = telebot.TeleBot("7736350421:AAFZ8cvktIWEbuS855eeho1N8ww3yzMO-jA")# توكن بتاعك هنا
+bot = telebot.TeleBot("7699407451:AAHhp54nzRj0j8ZJBDIvUMnldskQpOtPdAI")# توكن بتاعك هنا
 #AddUser
 def load_users():
     try:
